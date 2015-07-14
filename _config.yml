@@ -2,14 +2,15 @@
 menu:
   主页: /
   所有文章: /archives
+  其它: /about
   # 随笔: /tags/随笔
 
 # SubNav
 subnav:
-  github: "#"
+  github: "https://github.com/ccjoe"
   weibo: "#"
   rss: "#"
-  zhihu: "#"
+  zhihu: "http://www.zhihu.com/people/chu0"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
@@ -22,7 +23,7 @@ rss: /atom.xml
 # Content
 excerpt_link: more
 fancybox: true
-mathjax: true
+mathjax: false
 
 # 是否开启动画效果
 animate: true
@@ -35,7 +36,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: 
+avatar: https://avatars0.githubusercontent.com/u/4242643?v=3&s=460
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
@@ -60,4 +61,4 @@ friends:
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+aboutme: 理无常是，事无常非，道无常道，我还是我 :)

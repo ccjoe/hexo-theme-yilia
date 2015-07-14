@@ -1,8 +1,10 @@
 define([], function(){
 
 	var Tips = (function(){
-
+		var $artBox = $('.article-inner');
 		var $tipBox = $(".tips-box");
+
+		$artBox.guide({placeDom: '.article-entry'});
 
 		return {
 			show: function(){
