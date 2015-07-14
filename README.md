@@ -1,9 +1,9 @@
 hexo-theme-yilia
 ================
 
-在此按个人需求作了一些自定义， 详见 http://ccjoe.github.io
-1. 新增文章内 TOC导航
-2. todo ...
+--在此按个人需求作了一些自定义， 详见 http://ccjoe.github.io--
+- 新增文章内 TOC导航
+- todo ...
 
 
     Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
