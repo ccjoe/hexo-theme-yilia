@@ -2,14 +2,14 @@
 menu:
   主页: /
   所有文章: /archives
-  其它: /about
+  每日嘈点: /cao
   # 随笔: /tags/随笔
 
 # SubNav
 subnav:
   github: "https://github.com/ccjoe"
-  weibo: "#"
-  rss: "#"
+  # weibo: "#"
+  # rss: "#"
   zhihu: "http://www.zhihu.com/people/chu0"
   #douban: "#"
   #mail: "#"
@@ -33,7 +33,7 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
+favicon: /ccjoe.ico
 
 #你的头像url
 avatar: https://avatars0.githubusercontent.com/u/4242643?v=3&s=460
@@ -61,4 +61,4 @@ friends:
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 理无常是，事无常非，道无常道，我还是我 :)
+aboutme: 理无常是，事无常非，道无常道，我还是我，:) 里面很多文章都是半完成式或在完善相关主题，仅作为作者整理思路， 读者见谅。
