@@ -50,15 +50,11 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  奥巴马的博客: http://localhost:4000/
-  卡卡的美丽传说: http://localhost:4000/
-  本泽马的博客: http://localhost:4000/
-  吉格斯的博客: http://localhost:4000/
-  习大大大不同: http://localhost:4000/
-  托蒂的博客: http://localhost:4000/
+  MDN: https://developer.mozilla.org/zh-CN/
+  Github: http://www.github.com/
 
 #是否开启“关于我”。
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 理无常是，事无常非，道无常道，我还是我，:) 里面很多文章都是半完成式或在完善相关主题，仅作为作者整理思路， 读者见谅。
+aboutme: 理无常是，事无常非。 里面很多文章都是半完成式或在完善相关主题，仅作为作者整理思路， 读者见谅。
